@@ -8,7 +8,7 @@ export default class ArrayVisualiser extends Component {
     constructor(props) {
         super(props);
         this.collapse = this.collapse.bind(this);
-        this.state = {open: false};
+        this.state = {open: true};
     }
 
     collapse() {
