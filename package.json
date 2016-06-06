@@ -1,7 +1,7 @@
 {
   "name": "@thr1ve/visualizer",
   "version": "1.0.1",
-  "description": "Visualizer component adapted from Joel Auterson's project, Kajero ( https://github.com/JoelOtter/kajero )",
+  "description": "Visualizer component taken from Joel Auterson's phenomenal project, Kajero ( https://github.com/JoelOtter/kajero )",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
@@ -37,5 +37,13 @@
     "progress-bar-webpack-plugin": "^1.8.0",
     "rimraf": "^2.5.2",
     "webpack": "^1.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thr1ve/visualizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thr1ve/visualizer/issues"
+  },
+  "homepage": "https://github.com/Thr1ve/visualizer#readme"
 }
